@@ -169,7 +169,7 @@ const chalja = () => {
 
   let value_store = 10;
   function bhagja() {
-    if (140 > value_store) {
+    if (20 > value_store) {
       let store = document.querySelector("#running-value");
       value_store++;
       store.innerHTML = value_store;
